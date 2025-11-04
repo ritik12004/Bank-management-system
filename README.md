@@ -67,7 +67,7 @@ bank-management-system/
 Author
 Ritik Gujre
 Email: ritik26cs103@satiengg.in
-LinkedIn: ritik26cs103@satiengg.in
+LinkedIn: www.linkedin.com/in/ritikgujre
 
 License
 This project is open source and available under the MIT License.
