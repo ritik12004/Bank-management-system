@@ -1,0 +1,30 @@
+[
+    {
+        "account_no": "7R1tn8vj2",
+        "type": "deposit",
+        "amount": 500,
+        "balance_after": 500,
+        "timestamp": "2025-11-20 22:45:42"
+    },
+    {
+        "account_no": "7R1tn8vj2",
+        "type": "withdraw",
+        "amount": 500,
+        "balance_after": 0,
+        "timestamp": "2025-11-20 22:46:00"
+    },
+    {
+        "account_no": "4SSQ8T41Y",
+        "type": "deposit",
+        "amount": 5000,
+        "balance_after": 5000,
+        "timestamp": "2025-11-20 23:10:04"
+    },
+    {
+        "account_no": "4SSQ8T41Y",
+        "type": "withdraw",
+        "amount": 500,
+        "balance_after": 4500,
+        "timestamp": "2025-11-20 23:10:15"
+    }
+]
